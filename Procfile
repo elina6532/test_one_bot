@@ -1,1 +1,1 @@
-web: python VPR_bot
+web: python test_bot.py
